@@ -7,6 +7,14 @@ DISCLAIMER: Training on CPU is extremely slow!
 
 This implementation uses the [LJSpeech dataset](https://keithito.com/LJ-Speech-Dataset/).
 
+
+https://github.com/Fiznab-Tuni/tacotron2/assets/74656662/5293c750-0c48-4d2d-92a1-58386253e653
+
+https://github.com/Fiznab-Tuni/tacotron2/assets/74656662/32676b9e-48a7-4d35-aa9b-03b1f41f6760
+
+https://github.com/Fiznab-Tuni/tacotron2/assets/74656662/5b3630cf-2e2d-4352-a717-6efac9c97a6f
+
+
 ![We come in peace!](examples/humans_denoised.wav)
 ![We have plans.](examples/plans_denoised.wav)
 ![Audio processing is neat!](examples/neat_denoised.wav)
