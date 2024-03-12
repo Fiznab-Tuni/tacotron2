@@ -15,11 +15,6 @@ https://github.com/Fiznab-Tuni/tacotron2/assets/74656662/32676b9e-48a7-4d35-aa9b
 https://github.com/Fiznab-Tuni/tacotron2/assets/74656662/5b3630cf-2e2d-4352-a717-6efac9c97a6f
 
 
-![We come in peace!](examples/humans_denoised.wav)
-![We have plans.](examples/plans_denoised.wav)
-![Audio processing is neat!](examples/neat_denoised.wav)
-
-
 ## Setup
 Tested on Windows 10 with AMD Ryzen 7 3700
 
