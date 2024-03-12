@@ -38,9 +38,6 @@ By default, the dataset dependent text embedding layers are [ignored]
 1. Download [Tacotron 2] model published by NVIDIA
 2. `python train.py --output_directory=outdir --log_directory=logdir -c tacotron2_statedict.pt --warm_start`
 
-## Multi-GPU (distributed) and Automatic Mixed Precision Training
-1. `python -m multiproc train.py --output_directory=outdir --log_directory=logdir --hparams=distributed_run=True,fp16_run=True`
-
 ## Inference demo
 1. Download [Tacotron 2] model published by NVIDIA
 2. Download [WaveGlow] model published by NVIDIA
